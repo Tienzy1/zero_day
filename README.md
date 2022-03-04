@@ -1,1 +1,1 @@
-Zero day repo for the Vagrant task
+This is the Vagrant environment
